@@ -4,7 +4,7 @@ This folder is for  to Thesis
 # PPT 
 These PPT contains each weeks project realted Work.
 
-# .Jpynb file will includes 
+# .ipynb file will includes 
 1. Exploratory Data Analysis    ---INPROGRESS
 2. Pre-processing and Training Data Development 
 3. Fit Models with Training Data Set 
